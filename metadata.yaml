@@ -1,5 +1,8 @@
 _repo: The-Wild-Irishman_57838
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57838-h/images/cover.jpg
 creator:
   author:
     agent_name: Crosland, T. W. H. (Thomas William Hodgson)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '25879'
     url: http://www.gutenberg.org/2009/agents/25879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57838#The-Wild-Irishman
 gutenberg_issued: '2018-09-03'
 gutenberg_type: Text
 identifiers:
